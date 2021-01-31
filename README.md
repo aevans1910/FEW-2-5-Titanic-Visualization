@@ -32,7 +32,7 @@ Try and display as much of the data from the Titanic dataset listed below as you
 - How many survived? 
 - How many died? 
 - How many men? 
-- Hoe many wonmen?
+- How many wonmen?
 - Where did each passenger embark? 
 - what class did each passenger travel? 
 - How much did each passenger pay? 
